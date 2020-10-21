@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/Larenen/Larenen/main/Dark%20Blue%20Cables%20Business%20Etsy%20Banner.png">
 <h1 align="center">Hi 👋, I'm Łukasz</h1>
 <h3 align="center">Programming enthusiast and backend developer from Poland.</h3>
+<h3 align="center"><a href="https://larenen.github.io"> Portfolio </a></h3>
 
 - 🔭 I’m currently working on [Naucz-mnie.pl](https://study-online-test.herokuapp.com)
 - 🌱 I’m currently learning <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white">
