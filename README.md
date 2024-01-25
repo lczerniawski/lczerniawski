@@ -33,6 +33,7 @@
    - 💻 **Computer Science BSc**\
      📅 2016 - 2020\
      📍 **WIT Academy** - Warsaw, Poland
+     
   ## Work Experience
    <img align="right" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
    <img align="right" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
@@ -76,7 +77,24 @@
    - 👨🏻‍💻 **.NET Developer**\
      📅 07.2018 - 12.2020\
      📍 **Freelancer** - Warsaw, Poland
+     
   ## Certificates
+  <a href="https://learn.microsoft.com/en-gb/users/czerniawski-lukasz/credentials/6fd1278d796dbd72">
+    <img src="https://img.shields.io/badge/Azure%20Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  </a>
+  <br/>
+    <a href="https://learn.microsoft.com/en-gb/users/czerniawski-lukasz/credentials/35707c2a0c4d046c">
+    <img src="https://img.shields.io/badge/Azure%20Data%20Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  </a>
+  <br/>
+  <a href="https://learn.microsoft.com/en-gb/users/czerniawski-lukasz/credentials/221f77f65a806101">
+    <img src="https://img.shields.io/badge/Azure%20AI%20Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  </a>
+  <br/>
+  <a href="https://www.datacamp.com/certificate/DEA0017926458443">
+    <img src="https://img.shields.io/badge/Data%20Engineer%20Associate%20-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F"/>
+  </a>
+  
   ## Technologies
 </details>
 
