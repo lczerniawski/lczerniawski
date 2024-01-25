@@ -5,10 +5,15 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-<p>
-  
-</p>
+<h2>About me</h2>
+<ul>
+  <li>💻 Expertise in .NET stack and web development</li>
+  <li>🛠 Well-versed in DevOps principles, CI/CD, and Azure DevOps Pipelines</li>
+  <li>🏗 Knowledgeable in design patterns, architectural patterns, API design, and cloud architecture best practices</li>
+  <li>🎓 Microsoft certifications in data, cloud technology, and AI/ML</li>
+  <li>🌟 Passionate about ushing technological boundaries</li>
+  <li>🏎 Formula 1 enthusiast</li>
+</ul>
 
 <details>
   <summary>📄 Resume</summary>
