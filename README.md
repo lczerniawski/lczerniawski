@@ -6,6 +6,15 @@
   </a>
 </p>
 
+<p>
+  
+</p>
+
 <details>
   <summary>📄 Resume</summary>
+
+  ## Education
+  ## Work Experience
+  ## Certificates
+  ## Technologies
 </details>
