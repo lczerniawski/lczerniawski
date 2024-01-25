@@ -11,10 +11,11 @@
   <li>🛠 Well-versed in DevOps principles, CI/CD, and Azure DevOps Pipelines</li>
   <li>🏗 Knowledgeable in design patterns, architectural patterns, API design, and cloud architecture best practices</li>
   <li>🎓 Microsoft certifications in data, cloud technology, and AI/ML</li>
-  <li>🌟 Passionate about ushing technological boundaries</li>
+  <li>🤖 Currently exploring the fascinating world of AI</li>
+  <li>🌟 Passionate about pushing technological boundaries</li>
   <li>🏎 Formula 1 enthusiast</li>
 </ul>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 <details>
   <summary>📄 Resume</summary>
 
