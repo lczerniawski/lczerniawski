@@ -34,6 +34,48 @@
      📅 2016 - 2020\
      📍 **WIT Academy** - Warsaw, Poland
   ## Work Experience
+   <img align="right" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+   <img align="right" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+   <img align="right" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+   <img align="right" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  
+   - 👨🏻‍💻 **Junior Architect**\
+     📅 01.2024 - moment\
+     📍 **AXA** - Warsaw, Poland
+
+   <img align="right" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+   <img align="right" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+   <img align="right" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+   <img align="right" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  
+   - 👨🏻‍💻 **.NET Developer**\
+     📅 07.2022 - 12.2023\
+     📍 **AXA** - Warsaw, Poland
+
+   <img align="right" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+   <img align="right" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+   <img align="right" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+   <img align="right" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  
+   - 👨🏻‍💻 **Junior .NET Developer**\
+     📅 05.2022 - 06.2023\
+     📍 **AXA** - Warsaw, Poland
+
+   <img align="right" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+   <img align="right" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+   <img align="right" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+   <img align="right" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  
+   - 👨🏻‍💻 **Trainee .NET Developer**\
+     📅 12.2020 - 04.2021\
+     📍 **AXA** - Warsaw, Poland
+
+   <img align="right" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   <img align="right" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  
+   - 👨🏻‍💻 **.NET Developer**\
+     📅 07.2018 - 12.2020\
+     📍 **Freelancer** - Warsaw, Poland
   ## Certificates
   ## Technologies
 </details>
