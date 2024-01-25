@@ -22,6 +22,13 @@
   <summary>📄 Resume</summary>
 
   ## Education
+   - 🤖 **Artificial Intelligence MSc**\
+     📅 2023 - Present\
+     📍 **University Of Liverpool** - Liverpool, England
+     
+   - 💻 **Computer Science BSc**\
+     📅 2016 - 2020\
+     📍 **WIT Academy** - Warsaw, Poland
   ## Work Experience
   ## Certificates
   ## Technologies
