@@ -28,7 +28,7 @@
   ## Education
    - 🤖 **Artificial Intelligence MSc**\
      📅 2023 - Present\
-     📍 **University Of Liverpool** - Liverpool, England
+     📍 **University Of Liverpool** - Liverpool, UK
      
    - 💻 **Computer Science BSc**\
      📅 2016 - 2020\
