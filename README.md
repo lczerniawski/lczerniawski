@@ -3,6 +3,7 @@
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/portfolio-ffb703.svg?&style=for-the-badge"/>
   </a>
 </p>
 <p align="center">
