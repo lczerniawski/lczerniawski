@@ -119,6 +119,16 @@
   <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white">
 </details>
 
+<details>
+  <summary>📦 Open Source Projects </summary>
+  <br/>
+
+| Name                 | A short summary                              | Install   | Downloads |
+| -------------------- | -------------------------------------------- | --------- | --------- |
+| [Obsidian Sunset VSCode Theme](https://github.com/lczerniawski/ObsidianSunset) | Obsidian Sunset is a dark and colorful theme for Visual Studio Code that enhances the readability and aesthetics of your code.  | [![VSCode Marketplace](https://img.shields.io/visual-studio-marketplace/v/lczerniawski.obsidiansunset)](https://marketplace.visualstudio.com/items?itemName=lczerniawski.obsidiansunset) | [![VSCode Marketplace](https://img.shields.io/visual-studio-marketplace/i/lczerniawski.obsidiansunset)](https://img.shields.io/visual-studio-marketplace/i/lczerniawski.obsidiansunset) |
+
+</details>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
   <p align="center"><q>The engineer has been, and is, a maker of history.</q> ~ James Kip Finch</p>
