@@ -7,6 +7,9 @@
   <a href="#">
     <img width=110 src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
+  <a href="https://www.kaggle.com/ukaszczerniawski">
+    <img width=100 src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+  </a>
 </p>
 <p align="center">
   <h2>About me</h2>
