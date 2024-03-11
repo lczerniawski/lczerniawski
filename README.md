@@ -129,6 +129,7 @@
 | Name                 | A short summary                              | Install   | Downloads |
 | -------------------- | -------------------------------------------- | --------- | --------- |
 | [Obsidian Sunset VSCode Theme](https://github.com/lczerniawski/ObsidianSunset) | Obsidian Sunset is a dark and colorful theme for Visual Studio Code that enhances the readability and aesthetics of your code.  | [![VSCode Marketplace](https://img.shields.io/visual-studio-marketplace/v/lczerniawski.obsidiansunset)](https://marketplace.visualstudio.com/items?itemName=lczerniawski.obsidiansunset) | [![VSCode Marketplace](https://img.shields.io/visual-studio-marketplace/i/lczerniawski.obsidiansunset)](https://img.shields.io/visual-studio-marketplace/i/lczerniawski.obsidiansunset) |
+| [Obsidian Sunset JetBrains Theme](https://github.com/lczerniawski/ObsidianSunset-JetBrains) | Obsidian Sunset is a dark and colorful theme for JetBrains IDE that enhances the readability and aesthetics of your code.  | [![JetBrains Marketplace](https://img.shields.io/jetbrains/plugin/v/obsidiansunset?label=version)](https://plugins.jetbrains.com/plugin/23938-obsidian-sunset-theme) | [![JetBrains Marketplace](https://img.shields.io/jetbrains/plugin/d/obsidiansunset)](https://img.shields.io/jetbrains/plugin/d/obsidiansunset) |
 
 </details>
 
