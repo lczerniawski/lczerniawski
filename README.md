@@ -45,7 +45,7 @@
    <img align="right" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   
    - 👨🏻‍💻 **Junior Architect**\
-     📅 01.2024 - moment\
+     📅 01.2024 - Present\
      📍 **AXA** - Warsaw, Poland
 
    <img align="right" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
