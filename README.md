@@ -55,7 +55,7 @@
    <img align="right" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   
    - 👨🏻‍💻 **.NET Developer**\
-     📅 07.2022 - 12.2023\
+     📅 07.2023 - 12.2023\
      📍 **AXA** - Warsaw, Poland
 
    <img align="right" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
