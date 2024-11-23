@@ -102,6 +102,10 @@
   <a href="https://www.datacamp.com/certificate/DEA0017926458443">
     <img src="https://img.shields.io/badge/Data%20Engineer%20Associate%20-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F"/>
   </a>
+  <br />
+  <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/4f4b811f-1653-45af-942c-5ac5e3c4bdcc-ukasz-czerniawski-724429d0-b98f-4e5f-b80c-3d710d652f40-certificate.pdf">
+    <img src="https://img.shields.io/badge/FiNOS%20Financial%20Services%20Open%20Source%20Developer%20-ffffff?style=for-the-badge&logo=LinuxFoundation&logoColor=003778"/>
+  </a>
   
   ## Technologies
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
