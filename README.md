@@ -4,7 +4,7 @@
   <a href="#">
     <img width=110 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="https://lczerniawski.github.io">
     <img width=110 src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
   <a href="https://www.kaggle.com/ukaszczerniawski">
