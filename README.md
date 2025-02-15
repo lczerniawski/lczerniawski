@@ -140,6 +140,7 @@
 | [Better Comments JetBrains Plugin](https://github.com/lczerniawski/BetterComments-JetBrains) | The Better Comments plugin enhances commenting capabilities within JetBrains IDEs, allowing developers to create organized and visually distinct comments. This improvement in clarity and readability aids in understanding and maintaining code. | [![JetBrains Marketplace](https://img.shields.io/jetbrains/plugin/v/25738?label=version)](https://plugins.jetbrains.com/plugin/25738-better-comments) | [![JetBrains Marketplace](https://img.shields.io/jetbrains/plugin/d/25738)](https://plugins.jetbrains.com/plugin/25738-better-comments) |
 | [Obsidian Sunset Zed Theme](https://github.com/lczerniawski/ObsidianSunset-Zed) | Obsidian Sunset is a dark and colorful theme for Zed, VSCode and InteliJ IDE that enhances the readability and aesthetics of your code.  | [Zed Extensions](https://zed.dev/extensions?query=Obsidian+Sunset+Theme) | |
 | [LOPEX](https://github.com/lczerniawski/LOPEX) | LOPEX is a powerful command-line tool designed to exploit misconfigured web servers and extract leftover files from source control repositories.| [GitHub](https://github.com/lczerniawski/LOPEX) | |
+| [Reson](https://github.com/lczerniawski/reson) | Reson is a terminal-based system monitor written in Rust.| [GitHub](https://github.com/lczerniawski/reson) | |
 
 </details>
 
