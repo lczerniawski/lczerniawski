@@ -6,7 +6,7 @@ Solution Architect at AXA focused on security, .NET engineering, and applied AI.
 
 ## Overview
 
-I like building useful things, learning how systems work, and solving complicated problems. Outside of work, I’m usually exploring AI, open source, low-level programming and whatever catches my curiosity next (which happens quite a lot!).
+I like building useful things, learning how systems work, and solving complicated problems. Outside of work, I’m usually exploring AI, open source, low-level programming and whatever catches my curiosity next.
 
 I also enjoy Formula 1 racing a lot and watch every possible racing weekend.
 
