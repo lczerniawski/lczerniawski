@@ -1,6 +1,6 @@
 # Łukasz Czerniawski
 
-Solution Architect at AXA focused on security, .NET engineering, and applied AI.
+Solution Architect at AXA focused on security, .NET engineering, Python and applied AI.
 
 [LinkedIn](https://www.linkedin.com/in/lczerniawski/) · [Website](https://lczerniawski.github.io) · [Kaggle](https://www.kaggle.com/ukaszczerniawski)
 
@@ -12,7 +12,7 @@ I also enjoy Formula 1 racing a lot and watch every possible racing weekend.
 
 ## What I do at work
 
-I mostly work on the application’s security architecture. By being the owner of an identity platform and security solutions, I help design and oversee changes across the application landscape. I also work closely with engineering teams to refine system and solution designs, and I build scalable .NET and web solutions with a focus on maintainability and delivery.
+I mostly work on the application’s security architecture. By being the owner of an identity platform and security solutions, I help design and oversee changes across the application landscape. I’m also responsible for the quality of our software architecture in the domains of AI and pricing. I work closely with engineering teams to refine system and solution designs, and I build scalable .NET and Python web solutions with a focus on maintainability and delivery.
 
 ## Experience
 
